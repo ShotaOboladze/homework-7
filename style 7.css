@@ -3,14 +3,6 @@ body {
 }
 
 blockquote {
-    word-spacing: 100px;
-    text-align: left;
-    vertical-align: top;
     font-style: bold;
     font-size: 20px;
 }
-
-.type-2 {
-    word-spacing: 0px;
-}
-
